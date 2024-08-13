@@ -4,7 +4,7 @@ Use [`prettier`](https://github.com/prettier/prettier) to format JS codeblocks i
 
 ## Installation
 
-```console
+```bash
 yarn add -D markdown-magic markdown-magic-prettier prettier
 ```
 

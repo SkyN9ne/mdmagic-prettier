@@ -1,10 +1,10 @@
-# markdown-magic-prettier
+# Markdown Magic Prettier
 
-Use [`prettier`](https://github.com/prettier/prettier) to format JS codeblocks in markdown files via [markdown-magic](https://github.com/DavidWells/markdown-magic)
+Use [`prettier`](https://github.com/prettier/prettier) to format JS codeblocks in Markdown files with [`markdown-magic`](https://github.com/DavidWells/markdown-magic)
 
-## Install
+## Installation
 
-```
+```bash
 yarn add -D markdown-magic markdown-magic-prettier prettier
 ```
 
@@ -12,7 +12,7 @@ yarn add -D markdown-magic markdown-magic-prettier prettier
 
 ## Adding the plugin
 
-See `example.js` for usage.
+See `./example.js` for usage.
 
 <!-- AUTO-GENERATED-CONTENT:START (CODE:src=./example.js) -->
 <!-- The below code snippet is automatically added from ./example.js -->
